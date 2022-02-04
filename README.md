@@ -36,8 +36,6 @@ Learn to implement account verification in your web app with Twilio-powered Auth
  For the `AuthyKey` you first need to [sign up for Authy](https://dashboard.authy.com/signup).
  When you create an Authy application the production key is found on the dashboard.
 
- ![Authy Dashboard](http://s3.amazonaws.com/howtodocs/2fa-authy-dashboard.png)
-
 1. Check it out at [http://localhost:25451/](http://localhost:25451/).
 
 ## Meta
